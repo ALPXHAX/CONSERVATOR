@@ -7,10 +7,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Conservator</h3>
 
   <p align="center">
-    project_description
+    Conserve your energy for something more important, leave basic things to us.
     <br />
     <a href="https://github.com/ALPXHAX/CONSERVATOR"><strong>Explore the docs »</strong></a>
     <br />
@@ -56,6 +56,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This script is a combination of tools like Link Shortner, Fake Human Detail generator and many more will be added in future, basic needs for a newbie hacker/script kiddie.
+It's not a bad thing to be a script kiddie, someone have to start somewhere so start from here.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -73,7 +75,7 @@ You just need to have a working internet connection to use this script.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+You can install the packages just by running a simple command.
 * pip
   ```
   pip install -r requirements.txt```
