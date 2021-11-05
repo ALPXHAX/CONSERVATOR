@@ -75,7 +75,8 @@ You just need to have a working internet connection to use this script.
 
 This is an example of how to list things you need to use the software and how to install them.
 * pip
-  ```pip install -r requirements.txt```
+  ```
+  pip install -r requirements.txt```
 
 ### Installation
 
@@ -104,9 +105,9 @@ You can just fire up the script by using ```python cons.py``` and rest of the us
 <!-- ROADMAP -->
 ## Roadmap
 
-- [1] Link Shortner
-    - [] Both HTTP and HTTPS shortned links
-- [2] New Surprise Feature has been added.
+-  Link Shortner
+    - Both HTTP and HTTPS shortned links
+-  New Surprise Feature has been added.
 
 See the [open issues](https://github.com/ALPXHAX/CONSERVATOR/issues) for a full list of known issues.
 
