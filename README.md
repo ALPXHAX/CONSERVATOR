@@ -75,7 +75,7 @@ You just need to have a working internet connection to use this script.
 You can install the packages just by running a simple command.
 * pip
   ```
-  pip install -r requirements.txt```
+  pip install -r requirements.txt
 
 ### Installation
 
