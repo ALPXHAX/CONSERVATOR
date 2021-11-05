@@ -15,7 +15,6 @@
     <a href="https://github.com/ALPXHAX/CONSERVATOR"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    ·
     <a href="https://github.com/ALPXHAX/CONSERVATOR/issues">Report Bug</a>
     ·
     <a href="https://github.com/ALPXHAX/CONSERVATOR/issues">Request Feature</a>
