@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ALPXHAX/CONSERVATOR">
-    <img src="https://user-images.githubusercontent.com/34656604/140616340-8a415687-9b10-4774-8bc7-215c5bc1a718.png" alt="Logo">
+    <img src="https://user-images.githubusercontent.com/34656604/140616600-510da5bd-44ae-4abf-9aaa-528c96b48aae.png" alt="Logo">
   </a>
 
 <h3 align="center">Conservator</h3>
