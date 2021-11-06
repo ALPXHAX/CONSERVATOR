@@ -1,5 +1,10 @@
 <div id="top"></div>
-![cr](https://user-images.githubusercontent.com/34656604/140616340-8a415687-9b10-4774-8bc7-215c5bc1a718.png)
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ALPXHAX/CONSERVATOR">
+    <img src="https://user-images.githubusercontent.com/34656604/140616340-8a415687-9b10-4774-8bc7-215c5bc1a718.png" alt="Logo">
+  </a>
 
 <h3 align="center">Conservator</h3>
 
